@@ -1,0 +1,24 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.container .row .col-8{
+    border-radius: 10px;
+
+}
+.container .row .col-8 p{
+    color: rgb(0 0 0 / 63%);
+    line-height: 1.7;
+}
+
+.container .row .col-8 form input[type="search"]{
+        width: 35%!important;
+
+} .container .row .col-4 ul li{
+    cursor: pointer;
+}
+h1,.btn,p,h3,h2,h4,h5,h6{
+    text-transform: capitalize;
+}
+.carousel .carousel-inner img{
+    border-radius: 10px;
+}
